@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "crawlsite.js": "node src/crawlsite.js",
-    "side-by-side-load.js": "node src/side-by-side-load.js"
+    "side-by-side-load.js": "node src/side-by-side-load.js --url https://tailwinduikit.com https://getfigit.com"
   },
   "keywords": [],
   "author": "",
