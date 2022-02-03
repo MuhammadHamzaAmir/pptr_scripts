@@ -1,0 +1,68 @@
+{
+ "url": "https://figit-redesign-7awumr956-alphasquad.vercel.app/",
+ "title": "",
+ "children": [
+  {
+   "url": "https://figit-redesign-7awumr956-alphasquad.vercel.app/pricing",
+   "title": "",
+   "children": [
+    {
+     "url": "https://figit-redesign-7awumr956-alphasquad.vercel.app/pricing#faq",
+     "title": "",
+     "children": [
+      {
+       "url": "https://figit-redesign-7awumr956-alphasquad.vercel.app/pricing",
+       "title": ""
+      },
+      {
+       "url": "https://figit-redesign-7awumr956-alphasquad.vercel.app/documentation",
+       "title": ""
+      }
+     ]
+    },
+    {
+     "url": "https://figit-redesign-7awumr956-alphasquad.vercel.app/documentation",
+     "title": "",
+     "children": [
+      {
+       "url": "https://figit-redesign-7awumr956-alphasquad.vercel.app/pricing",
+       "title": ""
+      },
+      {
+       "url": "https://figit-redesign-7awumr956-alphasquad.vercel.app/pricing#faq",
+       "title": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "url": "https://figit-redesign-7awumr956-alphasquad.vercel.app/pricing#faq",
+   "title": "",
+   "children": [
+    {
+     "url": "https://figit-redesign-7awumr956-alphasquad.vercel.app/pricing",
+     "title": ""
+    },
+    {
+     "url": "https://figit-redesign-7awumr956-alphasquad.vercel.app/documentation",
+     "title": ""
+    }
+   ]
+  },
+  {
+   "url": "https://figit-redesign-7awumr956-alphasquad.vercel.app/documentation",
+   "title": "",
+   "children": [
+    {
+     "url": "https://figit-redesign-7awumr956-alphasquad.vercel.app/pricing",
+     "title": ""
+    },
+    {
+     "url": "https://figit-redesign-7awumr956-alphasquad.vercel.app/pricing#faq",
+     "title": ""
+    }
+   ]
+  }
+ ]
+}
