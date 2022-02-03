@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "crawlsite.js": "node src/crawlsite.js"
+    "crawlsite.js": "node src/crawlsite.js",
+    "side-by-side-load.js": "node src/side-by-side-load.js"
   },
   "keywords": [],
   "author": "",
